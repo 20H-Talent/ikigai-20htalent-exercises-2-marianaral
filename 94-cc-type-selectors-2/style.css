@@ -6,3 +6,8 @@ text-align: center;
 p {
     color: lightgrey;
 }
+
+header {
+    background-color: orange;
+    color: white;
+}
