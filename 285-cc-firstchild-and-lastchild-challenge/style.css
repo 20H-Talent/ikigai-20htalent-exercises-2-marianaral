@@ -3,3 +3,7 @@ li:first-child {
     border: none;
     border-radius: 5px 0 0 5px;
 }
+
+li:last-child {
+    border-radius: 0 5px 5px 0;
+}
