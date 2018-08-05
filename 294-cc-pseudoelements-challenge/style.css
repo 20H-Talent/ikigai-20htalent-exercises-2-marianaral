@@ -1,7 +1,7 @@
 /* Complete the challenge by writing CSS below */
 
 .progbar::after {
-    content: "";
+  content: "";
   display: block;
   width: 50%;
   height: 100%;
@@ -9,7 +9,8 @@
   background-color: #5ece7f;
 }
 
-.progbar {
+.progbar::before {
+  content: "";
   display: block;
   width: 24px;
   height: 24px;
@@ -27,3 +28,4 @@
   position: relative;
   margin-bottom: 3.875em;
 }
+ 
