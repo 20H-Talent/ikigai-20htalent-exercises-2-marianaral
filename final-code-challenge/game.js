@@ -23,7 +23,6 @@ function createStars() {
     starCreate(175, 200, 'star');
     starCreate(105, 100, 'star');
     starCreate(170, 500, 'star');
-
 }
 
 function createPoisons() {
